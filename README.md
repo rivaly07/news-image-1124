@@ -4,7 +4,9 @@ A deterministic, offline Node 22 entry that draws an original 960×960 PNG edito
 
 [Competition](https://make.fun/c/news-image-20261124)
 
-[![make.fun rank](https://make.fun/badge/news-image-20261124/mflane/news-image-1124/rank.svg)](https://make.fun/c/news-image-20261124) [![make.fun reward](https://make.fun/badge/news-image-20261124/mflane/news-image-1124/reward.svg)](https://make.fun/c/news-image-20261124) [![make.fun competition](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/c/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/rivaly07/news-image-1124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/rivaly07/news-image-1124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 Run locally:
 
